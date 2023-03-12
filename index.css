@@ -1,0 +1,14 @@
+.rowcolour{
+    background-color: dimgray;
+    padding: 20px; 
+    border-radius: 25px;
+       
+}
+
+.row{
+    padding: 20px 0px 20px 0px;
+ box-shadow:darkgrey;
+}
+input::placeholder{
+    font: style 20%;;
+}
